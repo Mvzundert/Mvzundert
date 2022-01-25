@@ -4,7 +4,7 @@
 
 
 ## 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="Apple" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.JS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PHPStorm" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.JS" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby" width="50" height="50"/>
 
 ## My GitHub Stats
 
