@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/stickers/armis-group-transparent-0lfqHNZwWM1hOvJ9CX" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/marius-van-zundert-34620513">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Lua" width="40" height="40"/>
 </div>
 
 ---
