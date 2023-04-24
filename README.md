@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div align="center">
-  <a href="https://blog.mariusvanzundert.nl">
+  <a href="https://blog.mariusvanzundert.nl" target="_blank">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </a>
 </div>
