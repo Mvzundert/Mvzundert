@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://blog.mariusvanzundert.nl">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAwZWNiN2M0NzViMmQyMGM4YzNiYzM4ZjcwYWFlOTY1NWE4ZGE3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eNpP80U2AJKDn1UDhP/giphy.gif" width="100"/>
   </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/marius-van-zundert-34620513">
