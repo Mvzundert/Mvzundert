@@ -28,7 +28,7 @@
     
 :zap: In my free time, I make music and other weird stuff.
     
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/marius-van-zundert-34620513)
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mvzundert-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/marius-van-zundert-34620513)
 
 ---
 
