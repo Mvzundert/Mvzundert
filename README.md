@@ -15,7 +15,7 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
+  <div>
     I am a Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
     - :telescope: I'm working as a Developer and Ethical Hacker at my own company <a href="https://www.cerberos.dev">Cerberos</href>
 
@@ -23,7 +23,8 @@
 
     - :zap: In my free time, I make music and other weird stuff.
 
-    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marius-van-zundert-34620513)
+    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/marius-van-zundert-34620513)
+  </div>
 </div>
 
 ---
