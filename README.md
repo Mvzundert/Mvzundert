@@ -44,12 +44,3 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mvzundert&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvzundert&show_icons=true&theme=vision-friendly-dark&count_private=true&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvzundert&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
