@@ -20,17 +20,19 @@
 ---
 
 ### :man_technologist: About Me :
- I am a Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
+
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
 
 :telescope: I'm working as a Developer and Ethical Hacker at my own company <a href="https://www.cerberos.dev" target="_blank">Cerberos</href>
-    
+
 :seedling: Exploring Technical Cotent creation and new Languages.
-    
+
 :zap: In my free time, I make music and other weird stuff.
-    
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
@@ -42,14 +44,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Lua" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mvzundert&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvzundert&show_icons=true&theme=vision-friendly-dark&count_private=true&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvzundert&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
