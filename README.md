@@ -1,21 +1,18 @@
 <div id="header" align="center">
-  <a href="https://blog.mariusvanzundert.nl">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE5NzI0NDcwZWMwZjdhNjVlNWJjMTBmYWMyOWE4YzUyMmM4NmY3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/0lfqHNZwWM1hOvJ9CX/giphy.gif"
-  </a>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/marius-van-zundert-34620513">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/Marske1984">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Mvzundert&style=flat-square&color=blue" alt=""/>
-  <h1>
+   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div id="badges">
+<a href="https://www.linkedin.com/in/marius-van-zundert-34620513">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/Marske1984">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Mvzundert&style=flat-square&color=blue" alt=""/>
 
 ---
 
