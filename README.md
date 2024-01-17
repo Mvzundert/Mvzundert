@@ -11,9 +11,8 @@
     <a href="https://twitter.com/Marske1984">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Mvzundert&style=flat-square&color=blue" alt=""/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=Mvzundert&style=flat-square&color=blue" alt=""/>
 ---
 
 ### :man_technologist: About Me :
