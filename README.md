@@ -40,7 +40,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   </a>
 </p>
 
-#### tools
+#### Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
