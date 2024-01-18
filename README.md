@@ -32,15 +32,11 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :hammer_and_wrench: Languages and Tools :
 
-#### Languages
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,discord,bash,nginx,raspberrypi" />
   </a>
 </p>
-
-#### Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
