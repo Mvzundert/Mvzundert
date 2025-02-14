@@ -33,21 +33,27 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
+  <div id="technologies" align="left">
     :zap: Technologies I am proficient with.
+  </div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,raspberrypi" />
   </a>
 </p>
 
 <p align="center">
+  <div id="languages" align="left">
     :zap: Languages I am proficient with.
+  </div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,rust,lua,go,python,zig" />
   </a>
 </p>
 
 <p align="center">
-    :zap: Frameworks I am proficient with.
+   <div id="frameworks" align="left">
+      :zap: Frameworks I am proficient with.
+   </div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,symfony,tailwind" />
   </a>
