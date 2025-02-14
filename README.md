@@ -34,12 +34,18 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,discord,bash,nginx,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,raspberrypi" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,tailwind,rust,lua,go,vue,python,zig " />
+    <img src="https://skillicons.dev/icons?i=php,rust,lua,go,vue,python,zig" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,tailwind, " />
   </a>
 </p>
